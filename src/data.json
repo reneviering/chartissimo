@@ -1,0 +1,41 @@
+[{
+    "language": "Rust",
+    "value": 40
+  },
+  {
+    "language": "Kotlin",
+    "value": 80
+  },
+  {
+    "language": "Python",
+    "value": 70
+  },
+  {
+    "language": "TypeScript",
+    "value": 60
+  },
+  {
+    "language": "Go",
+    "value": 20
+  },
+  {
+    "language": "Swift",
+    "value": 80
+  },
+  {
+    "language": "JavaScript",
+    "value": 100
+  },
+  {
+    "language": "C#",
+    "value": 45
+  },
+  {
+    "language": "F#",
+    "value": 10
+  },
+  {
+    "language": "Clojure",
+    "value": 20
+  }
+]
